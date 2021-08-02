@@ -5,7 +5,7 @@
 - 🌱 Estou estudando **Flutter**
 - ⚡ *Fun fact*: Sim, já deixei uma máquina EC2 parada lá na AWS gastando, então: "Anytime! Jeff"
 
-<div style="display: inline_block"><br>
+<div><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
@@ -18,6 +18,9 @@
 </div>
 
 ##
+ 
+<!--   <a href="https://www.youtube.com/channel/UCs84VthGvdoozi72BvcaKdQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
+  <a href="https://www.linkedin.com/in/lucas-febatis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div>
   <a href="https://github.com/LucasFebatis">
@@ -31,32 +34,27 @@
   <tbody>
       <tr>
         <td>
+          <a href="https://github.com/LucasFebatis/super-hero-febatis-app">
           <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasFebatis&repo=super-hero-febatis-app&theme=nord"/> 
         </td>
         <td>
+          <a href="https://github.com/LucasFebatis/tvam">
           <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasFebatis&repo=tvam&theme=nord"/> 
         </td>
       </tr>
       <tr>
         <td>
+          <a href="https://github.com/LucasFebatis/customsnackbar">
           <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasFebatis&repo=customsnackbar&theme=nord"/> 
         </td>
         <td>
+          <a href="https://github.com/LucasFebatis/pug-runner-game-android">
           <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasFebatis&repo=pug-runner-game-android&theme=nord"/> 
         </td>
       </tr>
   </tbody>
 </table>
-  
-<!--   
-<div>
-  <a href="https://github.com/LucasFebatis">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasFebatis&repo=super-hero-febatis-app&theme=nord"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasFebatis&repo=tvam&theme=nord"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasFebatis&repo=customsnackbar&theme=nord"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasFebatis&repo=pug-runner-game-android&theme=nord"/>
-</div>
- -->
+
   
  
   
