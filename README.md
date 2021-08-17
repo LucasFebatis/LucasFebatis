@@ -2,20 +2,22 @@
 ### Sou o Lucas Batista, especialista em desenvolvimento móvel e esse é meu GitHub
 
 - 🔭 Hoje trabalho com **mobile**
-- 🌱 Estou estudando **Flutter**
+- 🌱 Estou estudando **Flutter** e Elastic Stack
 - ⚡ *Fun fact*: Sim, já deixei uma máquina EC2 parada lá na AWS gastando, então: "Anytime! Jeff"
 
-<div><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/LucasFebatis/LucasFebatis/3b63ed9740ce4fe05d883e733255b2f25fc1383d/apple-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg?hl=pt-br">
-</div>
+<a href="https://github.com/LucasFebatis" target="_blank">
+  <div><br>
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/LucasFebatis/LucasFebatis/3b63ed9740ce4fe05d883e733255b2f25fc1383d/apple-original.svg">
+    <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
+    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg">
+    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg?hl=pt-br">
+  </div>
+</a>
 
 ##
  
