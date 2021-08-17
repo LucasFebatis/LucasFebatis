@@ -2,7 +2,7 @@
 ### Sou o Lucas Batista, especialista em desenvolvimento móvel e esse é meu GitHub
 
 - 🔭 Hoje trabalho com **mobile**
-- 🌱 Estou estudando **Flutter** e Elastic Stack
+- 🌱 Estou estudando **Flutter** e **Elastic Stack**
 - ⚡ *Fun fact*: Sim, já deixei uma máquina EC2 parada lá na AWS gastando, então: "Anytime! Jeff"
 
 <a href="https://github.com/LucasFebatis" target="_blank">
