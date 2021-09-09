@@ -1,3 +1,5 @@
+<a href="https://github.com/LucasFebatis"><img align="right" src="storyset.gif" alt="GIF" title="Gif Storyset"></a>
+
 ### Olá Mundo... brinks, kkk 😅. 
 ### Sou o Lucas Batista, especialista em desenvolvimento móvel e esse é meu GitHub
 
