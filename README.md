@@ -2,6 +2,7 @@
 
 ### Olá Mundo... brinks, kkk 😅. 
 ### Sou o Lucas Batista, especialista em desenvolvimento móvel e esse é meu GitHub
+#### Ah... e esse é o meu [Gist](https://gist.github.com/LucasFebatis)
 
 - 🔭 Hoje trabalho com **mobile**
 - 🌱 Estou estudando **Flutter** e **Elastic Stack**
