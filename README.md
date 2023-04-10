@@ -5,7 +5,7 @@
 #### Ah... e esse é o meu [Gist](https://gist.github.com/LucasFebatis)
 
 - 🔭 Hoje trabalho com **mobile**
-- 🌱 Estou estudando **Flutter** e **Elastic Stack**
+- 🌱 Estou estudando **Arquitetura de Soluções**
 - ⚡ *Fun fact*: Sim, já deixei uma máquina EC2 parada lá na AWS gastando, então: "Anytime! Jeff"
 
 <a href="https://github.com/LucasFebatis" target="_blank">
