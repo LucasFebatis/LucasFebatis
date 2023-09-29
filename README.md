@@ -4,6 +4,7 @@
 ### Sou o Lucas Batista, especialista em desenvolvimento móvel e esse é meu GitHub
 #### Ah... e esse é o meu [Gist](https://gist.github.com/LucasFebatis)
 
+- 🛠️ Criador do [Ferramenta do Investidor](https://investor-tool.web.app)
 - 🔭 Hoje trabalho com **mobile**
 - 🌱 Estou estudando **Arquitetura de Soluções**
 - ⚡ *Fun fact*: Sim, já deixei uma máquina EC2 parada lá na AWS gastando, então: "Anytime! Jeff"
